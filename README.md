@@ -1,4 +1,4 @@
-# Demo..
+# DemoProject
 This is my first repository
 <br>
 By Aryan
